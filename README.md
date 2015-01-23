@@ -20,6 +20,14 @@ Your app's client id and secret must be entered in the conf.gcfg file. See the c
 
 Simply access `https://localhost:8001` to launch.
 
+## OAuth 2.0 Resources
+
+* [http://tutorials.jenkov.com/oauth2/client-types.html][http://tutorials.jenkov.com/oauth2/client-types.html]
+* [http://tools.ietf.org/html/draft-ietf-oauth-v2-23][http://tools.ietf.org/html/draft-ietf-oauth-v2-23]
+* [https://developers.google.com/accounts/docs/OAuth2WebServer][https://developers.google.com/accounts/docs/OAuth2WebServer]
+* [https://developers.google.com/oauthplayground/][https://developers.google.com/oauthplayground/]
+
+
 ## License
 
 The [MIT license][mit].
