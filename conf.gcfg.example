@@ -1,0 +1,9 @@
+; Comment line
+; name = value # Another comment
+; flag # implicit value for bool is true
+
+;More info at http://godoc.org/code.google.com/p/gcfg
+
+[oauth]
+	clientId = your_google_client_app_id
+	clientSecret = your_google_clint_app_secret
