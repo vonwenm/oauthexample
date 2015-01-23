@@ -22,7 +22,7 @@ Simply access `https://localhost:8001` to launch.
 
 ## OAuth 2.0 Resources
 
-* [http://tutorials.jenkov.com/oauth2/client-types.html](http://tutorials.jenkov.com/oauth2/client-types.html)
+* [http://tutorials.jenkov.com/oauth2/index.html](http://tutorials.jenkov.com/oauth2/index.html)
 * [http://tools.ietf.org/html/draft-ietf-oauth-v2-23](http://tools.ietf.org/html/draft-ietf-oauth-v2-23)
 * [https://developers.google.com/accounts/docs/OAuth2WebServer](https://developers.google.com/accounts/docs/OAuth2WebServer)
 * [https://developers.google.com/oauthplayground/](https://developers.google.com/oauthplayground/)
