@@ -4,7 +4,7 @@
 
 To install this example application, run:
 
-`go get go get github.com/apita1973/oauthexample`
+`go get github.com/apita1973/oauthexample`
 
 This app requires `cert.pem` and `key.pem` files (for TLS/https). Generate the files by running the following from the app root:
 
